@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Margins -->
+    <dimen name="margin_button">5dp</dimen>
+    <dimen name="margin_left">35dp</dimen>
+    <dimen name="margin_start">27dp</dimen>
+    <dimen name="margin_small">80dp</dimen>
+    <dimen name="margin_normal">240dp</dimen>
+    <dimen name="margin_bottom">160dp</dimen>
+    <dimen name="margin_top">52dp</dimen>
+    <dimen name="margin_point">175dp</dimen>
+    <dimen name="margin_horizontal">18dp</dimen>
+
+    <!-- Paddings -->
+    <dimen name="padding_top">30dp</dimen>
+    <dimen name="padding_start">20dp</dimen>
+
+
+    <!-- Width and height -->
+    <dimen name="size_button">80dp</dimen>
+    <dimen name="width_textView">375dp</dimen>
+    <dimen name="height_textView">98dp</dimen>
+    <dimen name="height_text">112dp</dimen>
+    <dimen name="width_text">667dp</dimen>
+
+    <!-- Text size -->
+    <dimen name="size_textView">25sp</dimen>
+    <dimen name="size_view">24sp</dimen>
+
+
+</resources>
